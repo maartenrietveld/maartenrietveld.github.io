@@ -1,0 +1,28 @@
+h1 {
+    height: 300px;
+    text-align: center;
+    font-style: normal;
+    color: #333;
+    line-height: 1.6111111111;
+    font-family: CerebriSans-Bold, -apple-system, BlinkMacSystemFont, Roboto, sans-serif !important;
+    font-size: 2em;
+    font-weight: 4000;
+}
+
+body {
+    background-color: bisque;
+    background-image: url("https://www.iamsterdam.com/media/blog/posts-en/2021/new-in-town-sept/carl-hansen--son-1800x1020.jpg?w=977");
+}
+
+header {
+  border-radius: 50px;
+  border-style: initial;
+  border-width: 0;
+  box-shadow: rgba(25, 25, 25, .04) 0 0 1px 0, rgba(0, 0, 0, .1) 0 3px 4px 0;
+  font-family: Arial, sans-serif;
+  font-size: 1em;
+  height: 50px;
+  padding: 0 25px;
+}
+
+  
